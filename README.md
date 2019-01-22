@@ -1,2 +1,2 @@
 # notes
-此仓库记录并总结工作中遇到的问题以及解决方案
+This records and summarizes problems encountered and solutions that can be reviewed at work .
